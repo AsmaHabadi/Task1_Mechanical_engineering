@@ -2,4 +2,6 @@
 
 ## **Description**
 
-In this task we designed the structure of the robot.
+In this task, we designed the structure of the robot.
+
+
